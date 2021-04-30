@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".GameActivity"
-            android:screenOrientation="reversePortrait"
+            android:screenOrientation="Portrait"
             android:theme="@style/AppTheme.noActionBar"/>
         <activity
             android:name=".MainActivity"
